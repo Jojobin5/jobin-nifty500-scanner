@@ -855,6 +855,3 @@ print("=" * 80)
 print()
 print("SCAN COMPLETED.")
 
-input(
-    "\nPress Enter to exit..."
-)
